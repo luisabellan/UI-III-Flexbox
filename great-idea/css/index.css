@@ -115,6 +115,7 @@ header nav a{
  header nav img {
 	align-self:center;
 	margin-bottom: 2%;
+	animation: none;
 } 
 
 @keyframes border{
