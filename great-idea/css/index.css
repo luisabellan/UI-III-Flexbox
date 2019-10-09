@@ -417,7 +417,7 @@ margin-top: 5%;
 }
 
 #section-bottom li {
-	list-style: disc;
+	list-style: disc inside;
 	padding-top: 6%;
 	line-height: 140%;
 }
