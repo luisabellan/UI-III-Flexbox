@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 Name: Jesus Luis Abellan Matilla
 Display name: Luis Abellan
 
+=======
+
+Full name: Jesus Luis Abellan Matilla
+>>>>>>> 8d2aab55a8c9e464b0f185b6e0753ce5813fe384
 
 # User Interface Project III: Great Idea Web Page With Flexbox
 
