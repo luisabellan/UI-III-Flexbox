@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+Name: Jesus Luis Abellan Matilla
+Display name: Luis Abellan
+
+=======
+
+Full name: Jesus Luis Abellan Matilla
+>>>>>>> 8d2aab55a8c9e464b0f185b6e0753ce5813fe384
+
 # User Interface Project III: Great Idea Web Page With Flexbox
 
 Now that you have experienced building a layout using `inline-block`.  Lets revisit the same HTML structure and refactor our first page with flex box module.  If you didn't finish yesterday's assignment, just start from scratch or use the solution code provided to you.
